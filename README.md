@@ -2,6 +2,9 @@
 
 PickYourColor is a simple and intuitive Chrome extension that allows you to pick colors from any web page.
 
+**Visit the live version of web [here](https://tharun26-g.github.io/PickYourColor/).**
+
+
 ## Features
 
 - **Easy Color Picking:** Click on the extension icon, and select any color on a webpage to get its hex code.
